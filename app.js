@@ -4,7 +4,7 @@
 
 /* -------------------------------------------------------- */
 
-const NAME = "Reyes";
+const NAME = "uvacoder";
 
 const CARDS = [
   {
@@ -49,9 +49,9 @@ const CARDS = [
     link: "https://codesandbox.io/dashboard/",
   },
   {
-    name: "YouTube",
-    icon: "ri-youtube-fill",
-    link: "https://www.youtube.com/",
+    name: "Blogroll",
+    icon: "ri-file-list-3-line",
+    link: "https://www.blogroll.org/",
   },
   {
     name: "LinkedIn",
@@ -62,6 +62,11 @@ const CARDS = [
     name: "Gmail",
     icon: "ri-google-fill",
     link: "https://mail.google.com/",
+  },
+  {
+    name: "Deta Cloud",
+    icon: "ri-cloudy-line",
+    link: "https://deta.space",
   },
 ];
 
