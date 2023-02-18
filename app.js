@@ -84,7 +84,7 @@ const CARDS = [
     link: "https://remixicon.com",
   },
 ];
-ri-stack-overflow-fill
+
 /* -------------------------------------------------------- */
 
 /******************/
