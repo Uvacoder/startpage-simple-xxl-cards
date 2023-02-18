@@ -8,9 +8,9 @@ const NAME = "uvacoder";
 
 const CARDS = [
   {
-    name: "Discord",
-    icon: "ri-discord-fill",
-    link: "https://discord.com/app",
+    name: "Npmjs",
+    icon: "ri-npmjs-fill",
+    link: "https://www.npmjs.com",
     clipboard: true,
   },
   {
