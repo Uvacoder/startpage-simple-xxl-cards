@@ -14,9 +14,9 @@ const CARDS = [
     clipboard: true,
   },
   {
-    name: "Reddit",
-    icon: "ri-reddit-fill",
-    link: "https://www.reddit.com/",
+    name: "Mastodon",
+    icon: "ri-mastodon-line",
+    link: "https://mastodon.social/@uvacoder",
   },
   {
     name: "Figma",
@@ -64,12 +64,27 @@ const CARDS = [
     link: "https://mail.google.com/",
   },
   {
+    name: "Slack",
+    icon: "ri-slack-fill",
+    link: "https://app.slack.com/client/T0266FRGM/D049HS9GB0W",
+  }, 
+  {
+    name: "Stackoverflow",
+    icon: "ri-stack-overflow-fill",
+    link: "https://stackoverflow.com/users/17330377/uvacoder",
+  },
+  {
     name: "Deta Cloud",
     icon: "ri-cloudy-line",
     link: "https://deta.space",
   },
+  {
+    name: "RemixIcon",
+    icon: "ri-remixicon-fill",
+    link: "https://remixicon.com",
+  },
 ];
-
+ri-stack-overflow-fill
 /* -------------------------------------------------------- */
 
 /******************/
